@@ -7,10 +7,6 @@ classdef uMaOEA < ALGORITHM
 % Q. Zhang, "Micro Multiobjective Evolutionary Algorithm With Piecewise Strategy for Embedded-Processor-
 % Based Industrial Optimization," IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. 
 %--------------------------------------------------------------------------------------------------------
-% This function is written by Zhongtian Luo.
-%--------------------------------------------------------------------------------------------------------
-% More information can visit Hu Peng's homepage: https://whuph.github.io/index.html
-%--------------------------------------------------------------------------------------------------------
 
     methods
         function main(Algorithm, Problem)
