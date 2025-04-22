@@ -4,8 +4,8 @@ classdef uMaOEA < ALGORITHM
 
 %--------------------------------------------------------------------------------------------------------
 % If you find this code useful in your work, please cite the following paper "H. Peng*, Z. Luo, T. Fang, 
-% Q. Zhang, "Micro Multiobjective Evolutionary Algorithm With Piecewise Strategy for Embedded-Processor-
-% Based Industrial Optimization," IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. 
+% Q. Zhang, "Micro many-objective evolutionary algorithm with knowledge transfer," IEEE Transactions on 
+% Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56. 
 %--------------------------------------------------------------------------------------------------------
 
     methods
